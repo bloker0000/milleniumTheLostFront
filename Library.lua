@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 
     Milenium Library
     -> Made by @finobe 
